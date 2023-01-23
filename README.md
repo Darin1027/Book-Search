@@ -4,7 +4,6 @@
 
 This project was leveraging google API search engine built with REST API. I refactor the code to be a GraphQL application build with Apollo Server. This application utilized MERN stack, React for the front end and MongoDB for the database, and Express server.
 
-
 ## User Story
 
 ```md
@@ -12,7 +11,6 @@ AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 ```
-
 
 ## Acceptance Criteria
 
@@ -45,68 +43,74 @@ THEN I am presented with all of the books I have saved to my account, each featu
 WHEN I click on the Remove button on a book
 THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
-THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 ```
 
-
 [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+
 ## Table of Contents
+
 1. [ Description. ](#description)
 2. [ Installation. ](#installation)
 3. [ Usage. ](#usage)
 4. [ License. ](#license)
-6. [ Tests. ](#tests)
-7. [ Questions. ](#questions)
-9. [ Screenshots. ](#screenshots)
-10. [ Links. ](#links)
-11. [ Resources. ](#resources)
+5. [ Tests. ](#tests)
+6. [ Questions. ](#questions)
+7. [ Screenshots. ](#screenshots)
+8. [ Links. ](#links)
+9. [ Resources. ](#resources)
+
 ## Installation
-* Clone the repository using:
+
+- Clone the repository using:
+
 ```
-git@github.com:shd327/Book-Search-Engine.git
+https://github.com/Darin1027/Book-Search
 ```
+
 ```
 Run the below commands to install any missing dependencies
 ```
+
 ```
 npm i
 ```
+
 ```
 npm start
 ```
 
-
 ## Usage
+
 N/A
 
 ## License
+
 Free Use
+
 ## Tests
+
 N/A
+
 ## Questions?
+
 Want to see more of my work? [Github Link](https://github.com/SHD327)
 
 <br/>
-Want to learn more please contact me at shdesai327@gmail.com
-
-
+Want to learn more please contact me at dplb1027@gmail.com
 
 ## Screenshots
-![](/Assets/21-mern-homework-demo-01.gif)
-![](/Assets/21-mern-homework-demo-02.gif)
-![](/Assets/21-mern-homework-demo-03.gif)
 
+![](/module21-Book-Search-Engine/Redo//Book-Search-Engine/client/src/photos/Screenshot_20230123_123033.png)
+![](/module21-Book-Search-Engine/Redo/Book-Search-Engine/client/src/photos/Screenshot_20230123_123307.png)
 
 ## Links
 
-[Github Link](https://github.com/shd327/Book-Search-Engine)
+[Github Link](https://github.com/Darin1027/Book-Search)
 
-[Heroku Link](https://fathomless-anchorage-64515.herokuapp.com/)
-
-
-
+[Heroku Link](https://whispering-basin-02412.herokuapp.com/)
 
 ## Resources
 
-* https://docs.insomnia.rest/
-* https://www.apollographql.com/docs/
+- https://docs.insomnia.rest/
+- https://www.apollographql.com/docs/
